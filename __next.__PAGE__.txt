@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[47257,["/comicquest4.0-doublesa/_next/static/chunks/0fsi8lw5utejl.js","/comicquest4.0-doublesa/_next/static/chunks/0d3tkj33oycf2.js"],"ClientPageRoot"]
+3:I[52683,["/comicquest4.0-doublesa/_next/static/chunks/0fsi8lw5utejl.js","/comicquest4.0-doublesa/_next/static/chunks/0d3tkj33oycf2.js","/comicquest4.0-doublesa/_next/static/chunks/0szam1m9n1-ng.js"],"default"]
+6:I[97367,["/comicquest4.0-doublesa/_next/static/chunks/0fsi8lw5utejl.js","/comicquest4.0-doublesa/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/comicquest4.0-doublesa/_next/static/chunks/0f7jveh4775_p.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/comicquest4.0-doublesa/_next/static/chunks/0f7jveh4775_p.css","precedence":"next"}],["$","script","script-0",{"src":"/comicquest4.0-doublesa/_next/static/chunks/0szam1m9n1-ng.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cSJi1oKnmUpBg761b9_07"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
